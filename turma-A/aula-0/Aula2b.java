@@ -13,16 +13,16 @@ public class Aula2b {
 
 
 
-       /* int soma = 0;
+        int soma = 0;
         int cont = 1;
 
         while(cont < 101){
             soma += cont;
             cont++;
-           // System.out.println("Soma atual: " + soma);
+           System.out.println("Soma atual: " + soma);
         }
 
-        System.out.println("Soma final: " + soma);*/
+        System.out.println("Soma final: " + soma);
 
 
 
@@ -46,7 +46,7 @@ public class Aula2b {
         }*/ 
 
 
-        int numero;
+        /*int numero;
 
         System.out.println("--TABUADA--");
 
@@ -59,9 +59,26 @@ public class Aula2b {
         for(int i=0; i<=10;i++){
             int tabuada = numero*i;
             System.out.println(numero + " x " + i + " = " + tabuada);
-        }
+        }*/
 
+
+
+
+        /*int numero;
+
+        Scanner entrada = new Scanner(System.in);
+        System.out.print("Digite um número: ");
+        numero = entrada.nextInt();
         
+
+        for(int i=1; i<=numero; i=i+2){
+            System.out.println(i);
+        }*/
+
+
+
+
+
 
 
 
